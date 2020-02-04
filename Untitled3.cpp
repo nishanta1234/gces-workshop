@@ -8,7 +8,7 @@ int main(){
 	}
 		
 		else
-		{ printf("sumitra antiko chori gundini");
+                { printf();
 		
 		}
 	
